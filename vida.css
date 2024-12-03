@@ -1,0 +1,110 @@
+.lo{
+   border-radius: 10px;
+   background-color: rgb(167, 158, 141);
+   position: relative;
+   left: 39%;
+   top: 10px;
+   border: solid;
+   padding: 20px;
+text-align: center;
+max-width: 200px;
+height: 400px;
+}
+
+.lo input{
+   background-color: rgb(255, 255, 255);
+    margin-top:10%;
+    border: solid;
+    border-radius: 10px;
+    padding: 16px;
+    left: 30%;
+    
+ }
+
+ 
+.lo:hover input{
+   color: rgb(108, 169, 55);
+    margin-top:10%;
+    border: solid;
+    border-radius: 10px;
+    padding: 16px;
+    left: 30%;
+    
+ }
+
+
+
+ .env{
+   text-align: center;
+    color: rgb(141, 78, 78);
+    padding:10px;
+    border: solid;
+    border-radius: 10px;
+    position: relative;
+    left: 50%;
+    top: -170px;
+ }
+
+ 
+ .env:hover{
+    color:black;
+    padding:13px;
+    border: solid;
+    border-radius: 10px;
+ }
+
+ 
+
+ .fa{
+   color:black;
+    text-align: center;
+
+ }
+
+ .sobre{
+
+   text-align: center;
+ }
+
+ p{
+   padding: 20px;
+   font-size: 20px;
+ }
+
+ .volta {
+   list-style-type:none;
+   text-align: center;
+   color: black;
+    
+ }
+
+
+ .volta a{
+  
+   text-decoration:none ;
+   text-align: center;
+   color: black;
+    
+ }
+
+ .volta:hover a{
+   border-top: solid;
+   text-decoration:none ;
+   text-align: center;
+   color: black;
+    
+ }
+
+ .quais a{
+   color: black;
+   position: relative;
+   top: -200px;
+   left:-30px;
+   text-decoration: none;
+   text-align: center;
+}
+
+.quais:hover a{
+   color: rgb(61, 200, 126);
+  padding: 20px;
+}
